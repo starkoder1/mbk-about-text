@@ -1,5 +1,5 @@
 {
-  "logo_url": "",
+  "logo_url": "https://redfstudios.com/assets/icons/favicon-512.png",
   "studio_name": "RED-F STUDIOS",
   "tagline": "Digital Craftsmanship & App Development",
   "description_en": "Red-F Studios is a premier software development and design agency specializing in crafting premium mobile applications, custom B2B/B2C systems, and high-performance digital platforms. We transform ideas into polished, user-centric products.",
@@ -11,5 +11,5 @@
     "Scalable Cloud Integrations & Databases"
   ],
   "contact_email": "redfstudio.apps@gmail.com",
-  "website_url": "https://red-f-studios.pages.dev"
+  "website_url": "https://redfstudios.com/"
 }
